@@ -59,3 +59,9 @@ spec:
       periodSeconds: 10
 ```
 
+# Resources requests
+
+## CPU and MEMORY BEHAVIOR
+CPU can make cluster works slowy but does not kill the pod. 
+
+
